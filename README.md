@@ -51,13 +51,13 @@ $ rm -rf django
 With that done you can initialize the Django project with
 
 ```
-make build
+$ make build
 ```
 
 Followed by a
 
 ```
-make shell
+$ make shell
 ```
 
 In the docker shell you can then run any arbitrary commands that will come up in the tutorial, such as starting the webserver or migrations:
