@@ -11,8 +11,8 @@ This repo follows this guide but uses a different environment to set it up.
 This will skip the tutorial and just use the code already present in this repo. If you would like to use this for learning Django and performing the tutorial complete the changes mentioned in differences below. For now, here's just how to spin up the app:
 
 ```
-make build
-make up
+$ make build
+$ make up
 # Then in another window
 $ make shell
 root@8a4b1e1effb0:/src# ./manage.py runserver 0.0.0.0
